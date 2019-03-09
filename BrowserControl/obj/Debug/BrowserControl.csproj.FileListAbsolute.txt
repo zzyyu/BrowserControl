@@ -1,0 +1,1 @@
+D:\C#\BrowserControl\BrowserControl\bin\Debug\BrowserControl.exe.config
